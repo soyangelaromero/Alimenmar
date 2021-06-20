@@ -1,0 +1,15 @@
+Rol: Administrador
+Usuario: Admin
+Cedula:25555555
+Clave:123456
+
+
+Rol:Cajero
+Usuario:Alejandro
+Cedula:27547084
+Clave:123
+
+Rol:Cajero
+Usuario:Angela
+Cedula:27650409
+Clave:123
